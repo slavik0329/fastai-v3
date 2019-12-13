@@ -17,7 +17,7 @@ path = Path(__file__).parent
 
 lesion_type_dict = {
     'nv': 'Melanocytic nevi',
-    'mel': 'dermatofibroma',
+    'mel': 'Melanoma',
     'bkl': 'Benign keratosis-like lesions ',
     'bcc': 'Basal cell carcinoma',
     'akiec': 'Actinic keratoses',
